@@ -26,9 +26,18 @@ The entries come from hostnames used in ad integrations, analytics clients, and 
 
 ### Advertising evidence
 
-The auction hosts come from the endpoints that Prebid bidder adapters use to request bids. Examples include `hbopenbid.pubmatic.com`, `fastlane.rubiconproject.com`, and `web.ads.aps.amazon-adsystem.com`. Blocking one can stop an auction, and some ad-supported players may wait for it to time out. [Prebid bidder implementations](https://github.com/prebid/Prebid.js/tree/318f442924c3928455e2db3093bdfa6ecbecbe91/modules)
+[ads.txt](ads.txt) contains 456 exact hostnames. The [per-host source index](sources/ads.tsv) links each entry to a bidder implementation, publisher integration, mobile SDK, or crawl record showing an advertising request.
 
-The four Google ad hosts appear in AMP’s AdSense and DoubleClick integrations or Google’s video ad sample. The entries target the hostnames those clients request. [AMP AdSense](https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/extensions/amp-ad-network-adsense-impl/0.1/amp-ad-network-adsense-impl.js) · [AMP DoubleClick](https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/extensions/amp-ad-network-doubleclick-impl/0.1/amp-ad-network-doubleclick-impl.js) · [Google IMA sample](https://github.com/googleads/googleads-ima-html5/blob/65b0e2f88a7decea45d930b3808d544ba0e517f7/simple/ads.js)
+| Coverage | Examples | Expected effect |
+| --- | --- | --- |
+| Web auctions | `hbopenbid.pubmatic.com`, `ow.pubmatic.com` | Prevents the browser from requesting bids from those endpoints. |
+| Display and sponsored recommendations | `s0.2mdn.net`, `cdn.taboola.com`, `widgets.outbrain.com` | Blocks ad creatives or widgets. Widgets can also contain editorial links, and some ad hosts handle sponsored-link redirects. |
+| In-app ads | `gateway.unityads.unity3d.com`, `ms.applovin.com` | Can stop an SDK from loading an ad. A reward that requires watching the ad may become unavailable. |
+| Video ads | `vid.springserve.com`, `dvrtr.innovid.com` | Blocks specific video ad requests. A player may wait for the request to time out or require an ad before playback. |
+
+The web-auction review started with production endpoints in Prebid.js. For older bidder names, the review checked for additional evidence from HTTP Archive or existing DNS lists. For older AMP tags, recent crawl records helped distinguish hosts still seen on sites from old sample integrations. Some mobile entries come from endpoint constants in the vendor’s versioned Android SDK. [Prebid.js adapters](https://github.com/prebid/Prebid.js/tree/318f442924c3928455e2db3093bdfa6ecbecbe91/modules) · [AMP vendor integrations](https://github.com/ampproject/amphtml/tree/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors) · [HaGeZi](https://github.com/hagezi/dns-blocklists) · [oisd](https://github.com/sjhgvr/oisd)
+
+Of the 456 names, 261 appeared verbatim in Third Party Web’s March 2026 HTTP Archive data. That count describes the web crawl. Mobile SDKs, regional bidders, and connected-TV clients reach a different mix of hosts. For crawl-based additions, resource paths such as `/pbs/openrtb2/auction` or `/vast/` helped identify the host’s role. [HTTP Archive observations via Third Party Web](https://github.com/patrickhulce/third-party-web/blob/a631d7a773c9338a20446ba0d106fabc0f87b732/data/2026-03-01-observed-domains.json) · [DuckDuckGo Tracker Radar](https://github.com/duckduckgo/tracker-radar/tree/a358daca7f84a2d8275f0b8dca460231dd902886)
 
 ### Tracker evidence
 
