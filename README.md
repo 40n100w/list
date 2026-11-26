@@ -18,7 +18,15 @@ If a site or app breaks, reproduce the issue while watching the Query Log for th
 
 ## Coverage
 
-These lists target requests that Pi-hole can distinguish by hostname. An entry covers that hostname only. Ads delivered from the same hostname as the content, including many in-stream video ads, need filtering at another layer. A client that sends DNS queries outside Pi-hole can bypass these lists.
+These lists target requests that Pi-hole can distinguish by hostname. Entries are exact names. Pi-hole can also block an alias when its DNS response points to a listed name through a CNAME. Ads delivered from the same hostname as the content, including many in-stream video ads, need filtering at another layer. A client that sends DNS queries outside Pi-hole can bypass these lists.
+
+### Social feeds and shared hosts
+
+This list favors keeping posts, comments, photos, and videos available. Pi-hole can block a separate ad request by hostname. If an app delivers a sponsored post and ordinary posts through the same API, blocking that API can remove the feed. A browser content blocker can hide individual promoted elements on sites such as Reddit and YouTube. Its rules apply in the browser. [Reddit promoted posts](https://github.com/easylist/easylist/blob/457e48991cca23c62b2f70350c15decd8a54d83b/easylist/easylist_specific_hide.txt#L7726) · [YouTube ad slots](https://github.com/easylist/easylist/blob/457e48991cca23c62b2f70350c15decd8a54d83b/easylist/easylist_specific_hide.txt#L8890)
+
+The list omits hosts with documented uses for program streams, publishers’ own recommendations, and privacy controls. It also omits hosts where a site-specific exception or shared player suggests a risk. Some ads from those hosts will still load. The audit record gives the reason and evidence for each removal. Other Pi-hole subscriptions can make different blocking decisions. [Compatibility audit](sources/ads-exclusions.tsv)
+
+The compatibility check uses 46 representative social-media hostnames for features including post images, embeds, and video playback. With all three subscriptions enabled, an isolated Pi-hole forwarded their IPv4 and IPv6 queries to a test DNS server. Live feeds and signed-in sessions were outside this test. [Social content hosts checked](sources/social-content.tsv)
 
 ## How the hosts were selected
 
@@ -26,13 +34,13 @@ The entries come from hostnames used in ad integrations, analytics clients, and 
 
 ### Advertising evidence
 
-[ads.txt](ads.txt) contains 656 exact hostnames. The [per-host source index](sources/ads.tsv) links each entry to a bidder implementation, publisher integration, mobile SDK, or crawl record showing an advertising request.
+[ads.txt](ads.txt) contains 583 exact hostnames. The [per-host source index](sources/ads.tsv) links each entry to a bidder implementation, publisher integration, mobile SDK, or crawl record showing an advertising request.
 
 | Coverage | Examples | Expected effect |
 | --- | --- | --- |
-| Web auctions | `hbopenbid.pubmatic.com`, `ow.pubmatic.com` | Prevents the browser from requesting bids from those endpoints. |
-| Display and sponsored recommendations | `s0.2mdn.net`, `cdn.taboola.com`, `widgets.outbrain.com` | Blocks ad creatives or widgets. Widgets can also contain editorial links, and some ad hosts handle sponsored-link redirects. |
-| In-app ads | `gateway.unityads.unity3d.com`, `ms.applovin.com` | Can stop an SDK from loading an ad. A reward that requires watching the ad may become unavailable. |
+| Web auctions | `prebid-us.creativecdn.com`, `ow.pubmatic.com` | Prevents the browser from requesting bids from those endpoints. |
+| Display and sponsored recommendations | `display.bidder.taboola.com`, `native.bidder.taboola.com` | Blocks these bidding endpoints while allowing Taboola’s shared widget loader through this subscription. |
+| In-app ads | `ads.inmobi.com`, `ms.applovin.com` | Can stop an SDK from loading an ad. A reward that requires watching the ad may become unavailable. |
 | Video ads | `vid.springserve.com`, `dvrtr.innovid.com` | Blocks specific video ad requests. A player may wait for the request to time out or require an ad before playback. |
 | Hosted ad servers | `servedby.revive-adserver.net`, `ads.supplyframe.com` | Blocks ad-slot requests on publisher sites using these servers. |
 | Audio ad requests | `jamx.deliveryengine.adswizz.com`, `play.adtonos.com` | Blocks separate requests for audio ads. Ads already mixed into a podcast or radio stream can still play. |
@@ -41,7 +49,7 @@ Regional entries use the exact hostname observed in the integration. For example
 
 The web-auction review started with production endpoints in Prebid.js. For older bidder names, the review checked for additional evidence from HTTP Archive or existing DNS lists. For older AMP tags, recent crawl records helped distinguish hosts still seen on sites from old sample integrations. Some mobile entries come from endpoint constants in the vendor’s versioned Android SDK. [Prebid.js adapters](https://github.com/prebid/Prebid.js/tree/318f442924c3928455e2db3093bdfa6ecbecbe91/modules) · [AMP vendor integrations](https://github.com/ampproject/amphtml/tree/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors) · [HaGeZi](https://github.com/hagezi/dns-blocklists) · [oisd](https://github.com/sjhgvr/oisd)
 
-Of the 656 names, 410 appeared verbatim in Third Party Web’s March 2026 HTTP Archive data. That count describes the web crawl. Mobile SDKs, regional bidders, and connected-TV clients reach a different mix of hosts. For crawl-based additions, resource paths such as `/pbs/openrtb2/auction` or `/vast/` helped identify the host’s role. [HTTP Archive observations via Third Party Web](https://github.com/patrickhulce/third-party-web/blob/a631d7a773c9338a20446ba0d106fabc0f87b732/data/2026-03-01-observed-domains.json) · [DuckDuckGo Tracker Radar](https://github.com/duckduckgo/tracker-radar/tree/a358daca7f84a2d8275f0b8dca460231dd902886)
+Of the 583 names, 343 appeared verbatim in Third Party Web’s March 2026 HTTP Archive data. That count describes the web crawl. Mobile SDKs, regional bidders, and connected-TV clients reach a different mix of hosts. For crawl-based additions, resource paths such as `/pbs/openrtb2/auction` or `/vast/` helped identify the host’s role. [HTTP Archive observations via Third Party Web](https://github.com/patrickhulce/third-party-web/blob/a631d7a773c9338a20446ba0d106fabc0f87b732/data/2026-03-01-observed-domains.json) · [DuckDuckGo Tracker Radar](https://github.com/duckduckgo/tracker-radar/tree/a358daca7f84a2d8275f0b8dca460231dd902886)
 
 ### Tracker evidence
 
