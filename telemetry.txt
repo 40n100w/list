@@ -1,0 +1,11 @@
+analytics-api.home-assistant.io
+analytics.brew.sh
+crash.syncthing.net
+data.syncthing.net
+incoming.telemetry.mozilla.org
+mobile.events.data.microsoft.com
+notify.bugsnag.com
+sessions.bugsnag.com
+telemetry.astro.build
+telemetry.nextjs.org
+telemetry.nuxt.com

@@ -1,0 +1,32 @@
+# Trackers | Third-party audience measurement, event collection, and session replay
+# Sources for the collection endpoints
+# https://github.com/ampproject/amphtml/tree/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/extensions/amp-analytics/0.1/vendors
+# https://github.com/amplitude/Amplitude-TypeScript/blob/f1c55cd0ffaeaf4f6e4aa802efdd428ad759b908/packages/analytics-core/src/types/constants.ts
+# https://github.com/amplitude/Amplitude-TypeScript/blob/f1c55cd0ffaeaf4f6e4aa802efdd428ad759b908/packages/session-replay-browser/src/constants.ts
+# https://github.com/googleanalytics/ga-dev-tools/blob/14217f42eca6358cfa973ce0e65bc128038ba42e/src/components/ga4/EventBuilder/ValidateEvent/useValidateEvent.ts
+amp.shinystat.com
+api-sr.amplitude.com
+api-sr.eu.amplitude.com
+api.eu.amplitude.com
+api.ibeat-analytics.com
+api2.amplitude.com
+bcp.crwdcntrl.net
+beacon.krxd.net
+collect.tealiumiq.com
+collector.mediator.media
+elsa.memoinsights.com
+hit-pool.upscore.com
+hm.baidu.com
+in.getclicky.com
+kraken.rambler.ru
+mc.yandex.ru
+p1.parsely.com
+ping.chartbeat.net
+pixel.quantserve.com
+pixels.mparticle.com
+prof.estat.com
+region1.google-analytics.com
+sb.scorecardresearch.com
+t5.mindtake.com
+top-fwz1.mail.ru
+www.google-analytics.com
