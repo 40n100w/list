@@ -15,8 +15,12 @@ a.aivertise.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442
 a.applovin.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/applovin/applovin-sdk/13.7.0/applovin-sdk-13.7.0.aar
 a.applvn.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/applovin/applovin-sdk/13.7.0/applovin-sdk-13.7.0.aar
 a.bids.ws	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/tealBidAdapter.js#L8
+a.exoclick.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/exoclick.com.json#L177
+a.exosrv.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/exosrv.com.json#L323
+a.realsrv.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/realsrv.com.json#L928
 a.teads.tv	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/teadsBidAdapter.js#L17
 a.tribalfusion.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/tribalfusion.com.json
+a.twiago.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adspiritBidAdapter.js#L363
 a2.adform.net	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adform.js#L7
 aax.amazon-adsystem.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/amazon-adsystem.com.json
 acdn.adnxs.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/appnexus.js#L5
@@ -24,59 +28,98 @@ ad-specs.guoshipartners.com	Web ad integration	https://github.com/ampproject/amp
 ad.360yield-basic.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/improvedigitalBidAdapter.js#L22
 ad.360yield.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/improvedigitalBidAdapter.js#L21
 ad.ad-stir.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adstirBidAdapter.js#L7
+ad.adnet.de	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adnet.de.json#L115
 ad.as.amanad.adtdp.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ajaBidAdapter.js#L17
 ad.doubleclick.net	Video or publisher integration	https://github.com/MicrosoftDocs/xandr-docs/blob/6549c0dec5906114141f35eb8e46ea677d7e7b69/xandr-docs/bidders/add-a-creative.md#L28
 ad.holmesmind.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/clickforceBidAdapter.js#L13
 ad.impactify.io	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/impactify.js#L46
+ad.impactify.media	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/FR/impactify.media.json#L17
 ad.mail.ru	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/mytarget.js#L34
 ad.vidoomy.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/vidoomy.com.json
 ad.vqserve.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/viqeoBidAdapter.js#L30
 ad.yieldlab.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/yieldlabBidAdapter.js#L18
+ad1.adfarm1.adition.com	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/CH/adition.com.json#L120
+ad2.apx.appier.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/appierBidAdapter.js#L16
 adapter.bidmatic.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/bidmaticBidAdapter.js#L23
 ade.clmbtech.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/colombiaBidAdapter.js#L7
+adengine.snigelweb.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/snigelweb.com.json#L163
 adlywise-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L65
 adnex-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L90
 adpb.ust-ad.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/uniquestBidAdapter.js#L12
 ads.ad2iction.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ad2ictionBidAdapter.js#L8
 ads.ad4game.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/a4gBidAdapter.js#L6
+ads.adextrem.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adextrem.com.json#L64
+ads.adnuntius.delivery	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adnuntiusBidAdapter.js#L55
+ads.adtec.ru	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adtec.ru.json#L143
 ads.adthrive.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adthrive.js#L11
+ads.bidstreamserver.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/bidstreamserver.com.json#L17
 ads.btwnx.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/betweenBidAdapter.js#L17
+ads.celtra.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/CA/celtra.com.json#L735
+ads.dotomi.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/dotomi.com.json#L1491
 ads.dxkulture.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/dxkultureBidAdapter.js#L94
 ads.dxtech.ai	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/dxtechBidAdapter.js#L23
+ads.exoclick.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/exoclick.com.json#L130
+ads.exosrv.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/exosrv.com.json#L142
 ads.futureads.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/admixerBidAdapter.js#L13
 ads.go2net.com.ua	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/admixerBidAdapter.js#L11
 ads.haloads.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/haloadsBidAdapter.ts#L9
+ads.inmobi.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/inmobi/monetization/inmobi-ads-kotlin/11.5.1/inmobi-ads-kotlin-11.5.1.aar
 ads.juicyads.me	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/juicyads.me.json
+ads.kiwi.shigotech.io	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/shigotech.io.json#L80
 ads.lfstmedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/lifestreetBidAdapter.js#L13
 ads.playground.xyz	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/pxyzBidAdapter.js#L12
+ads.playstream.media	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/test/spec/modules/playstreamBidAdapter_spec.js#L392
 ads.pubmatic.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/pubmatic.js#L26
+ads.revjet.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/revjet.com.json#L152
 ads.rubiconproject.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/rubicon.js#L49
 ads.servenobid.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/nobidBidAdapter.js#L393
 ads.smartstream.tv	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/stvBidAdapter.js#L20
 ads.smn.rs	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/admixerBidAdapter.js#L14
+ads.sportslocalmedia.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/sportslocalmedia.com.json#L626
 ads.ssmas.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ssmasBidAdapter.js#L10
+ads.supplyframe.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/supplyframe.com.json#L22
 ads.theagenticx.ai	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/agenticxBidAdapter.js#L12
 ads.themoneytizer.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/themoneytizer.com.json
 ads.thenexusengine.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/tne_catalystBidAdapter.ts#L27
+ads.trafficjunky.net	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/trafficjunky.net.json#L82
 ads.trustx.org	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/trustxBidAdapter.js#L218
 ads.us.criteo.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/criteo.com.json
+ads.us.e-planning.net	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/e-planning.net.json#L438
+ads.videoadex.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/videoadex.com.json#L16
 ads.viralize.tv	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/showheroesBidAdapter.js#L12
+ads.wmt.digital	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/wmt.digital.json#L16
 ads.yieldmo.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/yieldmoBidAdapter.js#L43
 ads4.krushmedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/krushmediaBidAdapter.js#L13
+adsdk.yandex.ru	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/yandex/android/mobileads/8.6.0/mobileads-8.6.0.aar
+adserv-nyc1.snigelweb.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/snigelweb.com.json#L1086
+adserv-sgp1.snigelweb.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/AU/snigelweb.com.json#L394
 adserv.snigelweb.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/snigelBidAdapter.js#L11
 adserver.juicyads.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/juicyads.com.json
+adserving.optoutadvertising.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/optoutadvertising.com.json#L161
 adx-sg.billowlink.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/billow_rtb25BidAdapter.ts#L19
 adx.adform.net	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adform.js#L6
 adx.ads.vungle.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/vungle/vungle-ads/7.8.0/vungle-ads-7.8.0.aar
+adx.digitalmatter.services	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/digitalMatterBidAdapter.js#L10
 adx.videonow.ru	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/videonowBidAdapter.js#L12
 adx2.adform.net	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adform.js#L8
+adx3.adform.net	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/AU/adform.net.json#L698
 ai-p-codefuel-ds-rtb-us-east-1-k8s.seccint.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/codefuelBidAdapter.js#L46
+aladdin.genieesspv.jp	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ex_genieeBidAdapter.js#L19
+amaze.deliveryengine.adswizz.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adswizz.com.json#L743
+antenna.adman.gr	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adman.gr.json#L513
 ap.lijit.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/sovrnBidAdapter.js#L192
 apex.go.sonobi.com	Prebid ad integration	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/sonobiBidAdapter.js#L17
+api.ad-hub.it	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/ad-hub.it.json#L64
+api.bidmachine.io	Mobile ad SDK	https://repo.maven.apache.org/maven2/io/bidmachine/ads/4.0.0/ads-4.0.0.aar
+api.maxesads.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/bigossp/bigo-ads/6.2.0/bigo-ads-6.2.0.aar
 api.pubnative.net	Mobile ad SDK	https://github.com/pubnative/pubnative-hybid-android-sdk/blob/afc097ed5bc675d0a898e374975c07b99edeec1b/hybid.sdk/build.gradle
 api.w.inmobi.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/inmobiBidAdapter.js#L20
 as.innity.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/innityBidAdapter.js#L6
+as.jivox.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/jivox.com.json#L58
 as.vt.open8.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/open8BidAdapter.js#L9
+asr.programmatica.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/programmaticaBidAdapter.js#L6
+assets.evolutionadv.it	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/evolutionadv.it.json#L64
+assets.jivox.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/jivox.com.json#L376
 assets.revcontent.com	Publisher tags, bids and creatives	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/revcontent.js#L13
 at.datawrkz.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/datawrkzBidAdapter.js#L25
 auction.bidespresso.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/bidespressoBidAdapter.ts#L27
@@ -84,9 +127,12 @@ b.finative.cloud	Browser auction	https://github.com/prebid/Prebid.js/blob/318f44
 b.nativendo.de	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/seedingAllianceBidAdapter.js#L14
 b1-euc1.outbrain.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/outbrain.com.json
 b1h.outbrain.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/outbrain.com.json
+banners.adfox.ru	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adfox.ru.json#L139
 be.smartbid.ai	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smbBidAdapter.ts#L7
+bg.search.etargetnet.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/etargetBidAdapter.js#L45
 bid.adhouse.pro	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adhouseBidAdapter.js#L14
 bid.adswag.ai	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adswagBidAdapter.ts#L440
+bid.adx.com.ru	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adx.com.ru.json#L16
 bid.asterio.ai	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/asterioBidAdapter.ts#L9
 bid.atmtd.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/automatadBidAdapter.js#L9
 bid.contextweb.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/pulsepointBidAdapter.js#L35
@@ -99,10 +145,17 @@ bid.sparteo.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442
 bid.sxp.smartclip.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smartxBidAdapter.js#L34
 bid.virgul.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/empowerBidAdapter.js#L18
 bid.zmaticoo.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/zmaticooBidAdapter.js#L15
+bid2.videostep.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/invibesBidAdapter.js#L388
+bid3.videostep.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/invibesBidAdapter.js#L388
+bid4.videostep.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/invibesBidAdapter.js#L388
+bid5.videostep.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/invibesBidAdapter.js#L388
 bid5up.monetiseup.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/mulBidAdapter.ts#L6
 bidder.ablida.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ablidaBidAdapter.js#L15
 bidder.adhash.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adhashBidAdapter.js#L185
+bidder.adquery.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adqueryBidAdapter.js#L26
+bidder.apester.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/apesterBidAdapter.js#L25
 bidder.cleanmediaads.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/gamoshiBidAdapter.js#L22
+bidder.copper6.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/copper6sspBidAdapter.js#L28
 bidder.criteo.com	Publisher tags, bids and creatives	https://github.com/criteo/android-publisher-sdk/blob/b329484b4bd609b24b9bddfff9e92fae1aa80b92/publisher-sdk/config.groovy#L113
 bidder.doceree.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/docereeBidAdapter.js#L8
 bidder.h12-media.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/h12mediaBidAdapter.js#L8
@@ -113,35 +166,54 @@ bidding-dsp.ad-m.asia	Browser auction	https://github.com/prebid/Prebid.js/blob/3
 bidding.rediads.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/rediadsBidAdapter.js#L7
 bids.concert.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/concertBidAdapter.js#L17
 bl-us.aceex.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/aceexBidAdapter.js#L16
+bntb.adsinteractive.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ads_interactiveBidAdapter.js#L6
+bs.serving-sys.ru	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/serving-sys.ru.json#L16
 bs.yandex.ru	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/yandex.ru.json
 btlr.sharethrough.com	Prebid ad integration	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/sharethroughBidAdapter.js#L21
 buyer.dspx.tv	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/dspxBidAdapter.js#L35
 c.amazon-adsystem.com	Video or publisher integration	https://github.com/guardian/commercial/blob/0a771e987ea2f7a68a8baa79ff1e434f21d35f05/bundle/src/lib/__vendor/a9-apstag.js#L34
 c.aps.amazon-adsystem.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/amazon-adsystem.com.json
+c.bannerflow.net	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/AU/bannerflow.net.json#L96
 c2shb.pubgw.yahoo.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/yahooAdsBidAdapter.js#L24
+cache-ssl.celtra.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/celtra.com.json#L96
+carbonatix.deliveryengine.adswizz.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adswizz.com.json#L765
 cd.ladsp.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/ladsp.com.json
 cdn-fluct.sh.adingo.jp	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/fluct.js#L28
+cdn.ad-hub.it	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/ad-hub.it.json#L17
 cdn.adnuntius.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adnuntius.js#L10
 cdn.adnxs.com	Video or publisher integration	https://github.com/MicrosoftDocs/xandr-docs/blob/6549c0dec5906114141f35eb8e46ea677d7e7b69/xandr-docs/digital-platform-api/creative-service.md#L687
 cdn.adpushup.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adpushup.js#L20
+cdn.adtec.ru	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adtec.ru.json#L71
 cdn.adx.ws	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/sevio.js#L18
 cdn.apvdr.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/appvador.js#L17
 cdn.broadstreetads.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/broadstreetads.js#L18
+cdn.browsiprod.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/browsiprod.com.json#L1712
 cdn.bttrack.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/bidtellect.js#L37
 cdn.carbonads.com	Publisher tags, bids and creatives	https://github.com/vuejs/vitepress/blob/40b2e090772ac11eac358d25ec92ee435fc2adbd/src/client/theme-default/components/VPCarbonAds.vue#L29
+cdn.celtra.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/celtra.com.json#L23
+cdn.flashtalking.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/AU/flashtalking.com.json#L348
+cdn.fuseplatform.net	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/fuseplatform.net.json#L159
 cdn.gmossp-sp.jp	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/gmossp.js#L13
 cdn.innity.net	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/innity.js#L9
 cdn.insurads.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/insurads.js#L20
+cdn.intergient.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/intergient.com.json#L22
 cdn.iprom.net	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/iprom.net.json
 cdn.ipromcloud.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/iprom.js#L42
+cdn.jivox.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/jivox.com.json#L1159
+cdn.microad.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/microad.jp.json#L627
 cdn.optoutadvertising.com	Video or publisher integration	https://github.com/guardian/commercial/blob/0a771e987ea2f7a68a8baa79ff1e434f21d35f05/bundle/src/init/consentless/prepare-ootag.ts#L47
 cdn.pubfuture-ad.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/pubfuture.js#L11
+cdn.revjet.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/revjet.com.json#L432
 cdn.taboola.com	Publisher tags, bids and creatives	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/taboola.js#L70
 cdn.tsyndicate.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/trafficstars.js#L42
+cdn2.inner-active.mobi	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/fyber/marketplace-sdk/8.5.1/marketplace-sdk-8.5.1.aar
 cdn4-hbs.affinitymatrix.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/affinity.js#L74
 cdn4.buysellads.net	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/buysellads.net.json
+cdnn.ad-stir.com	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/ad-stir.com.json#L513
+cdnrtbsape.ru	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/cdnrtbsape.ru.json#L14
 client-bids.adsby.bidtheatre.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/bidtheatreBidAdapter.js#L9
-client.aps.amazon-adsystem.com	Prebid ad integration	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/apsBidAdapter.js#L23
+client.aps.amazon-adsystem.com	Prebid ad integration	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/apsBidAdapter.js#L21
+cmhu.adocean.pl	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adocean.pl.json#L254
 compass.adop.cc	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adop.js#L10
 config.ads.vungle.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/vungle/vungle-ads/7.8.0/vungle-ads-7.8.0.aar
 config.mediation-sdk.chartboost.com	Mobile ad SDK	https://github.com/chartboost/chartboost-mediation-android-sdk/blob/9a0abe2f09714469b11d9f3e99fb459fea8b23f9/ChartboostMediation/src/main/java/com/chartboost/chartboostmediationsdk/network/Endpoints.kt
@@ -150,13 +222,17 @@ configv2.unityads.unitychina.cn	Mobile ad SDK	https://github.com/Unity-Technolog
 content.adriver.ru	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adriver.ru.json
 contextual.media.net	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/medianet.js#L116
 core.adcluster.com.tr	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adclusterBidAdapter.js#L5
+core.iprom.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ipromBidAdapter.js#L6
+cpt.geniee.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/geniee.jp.json#L17
 cpu32-cfy59.ads.tremorhub.com	Observed video ad request	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/tremorhub.com.json
 cpu32-j0bsd.ads.tremorhub.com	Observed video ad request	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/tremorhub.com.json
 cpu32-zs9v8.ads.tremorhub.com	Observed video ad request	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/tremorhub.com.json
 cstatic.weborama.fr	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/weborama.js#L72
 cxba-s2s.cncpt.dk	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/conceptxBidAdapter.js#L19
+cz.search.etargetnet.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/etargetBidAdapter.js#L45
 d.adroll.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/nextrollBidAdapter.js#L24
 d.as.criteo.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/criteo.com.json
+d.audiencerun.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/audiencerunBidAdapter.js#L26
 d.finative.cloud	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/finative.js#L10
 d.nativendo.de	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/seedingalliance.js#L10
 d.socdm.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adgenerationBidAdapter.js#L22
@@ -165,8 +241,11 @@ d.vidoomy.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f44292
 d5p.de17a.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/deltaprojectsBidAdapter.js#L18
 dad.ladsp.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/ladsp.com.json
 dale.performax.cz	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/performaxBidAdapter.js#L11
+delivery-cdn-cf.adswizz.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adswizz.com.json#L872
 delivery.clickonometrics.pl	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ccxBidAdapter.js#L8
+delivery.r2b2.cz	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/r2b2.cz.json#L141
 delivery.revcontent.com	Publisher tags, bids and creatives	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/revcontent.js#L14
+delta.adprime.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adprimeBidAdapter.js#L14
 des.smartclip.net	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/smartclip.js#L25
 dianomi-bidder-proxy.dianomi.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/dianomiBidAdapter.js#L63
 direct.adsrvr.org	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ttdBidAdapter.js#L24
@@ -178,17 +257,28 @@ dsp.pubnative.net	Mobile ad SDK	https://github.com/pubnative/pubnative-hybid-and
 dvrtr.innovid.com	Observed video ad request	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/innovid.com.json
 e.relay.bid	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/relayBidAdapter.js#L9
 e.serverbid.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/consumableBidAdapter.js#L14
+east-backend.mycodemedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/mcodemediaBidAdapter.js#L11
+ecdn.firstimpression.io	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/firstimpression.io.json#L122
 edge.aditude.io	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/aditude.io.json
+elb.the-ozone-project.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ozoneBidAdapter.js#L30
 endpoint.anzumarketplace.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/anzuSSPBidAdapter.ts#L7
+endpoint2.mathilde-ads.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/mathildeadsBidAdapter.js#L6
 engine.bliink.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/bliinkBidAdapter.js#L6
+eu.lucead.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/luceadBidAdapter.js#L34
+europe.delivery.adnuntius.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adnuntiusBidAdapter.js#L56
 ex.ingage.tech	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/insticatorBidAdapter.js#L13
 ex.visionforgex.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/visionforgexBidAdapter.ts#L33
+exchange.adnimation.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adnimationBidAdapter.js#L24
 exchange.buzzoola.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/buzzoolaBidAdapter.js#L16
 exchange.kueezrtb.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/kueezrtb.com.json
 exchange.mediavine.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/mediavine.com.json
+exchange.omni-dex.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/omnidexBidAdapter.js#L26
 exchange.ops.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/opscoBidAdapter.js#L7
 exchange.postrelease.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/nativoBidAdapter.js#L23
+exchange.programmaticx.ai	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/programmaticXBidAdapter.js#L25
 exchange.pstudio.tadex.id	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/pstudioBidAdapter.js#L12
+external-api.impression-neo.naver.com	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/naver.com.json#L199
+fam.adingo.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adingo.jp.json#L548
 fast.nexx360.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adgridBidAdapter.ts#L12
 fastlane.rubiconproject.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/magniteBidAdapter.js#L18
 felixads-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L59
@@ -199,16 +289,22 @@ gateway.unityads.unity3d.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/
 gbid.mediago.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/mediagoBidAdapter.js#L30
 gbid.mediagotechnology.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/mediagoBidAdapter.js#L35
 gcdn.2mdn.net	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/2mdn.net.json
+get.optad360.io	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/optad360.io.json#L19
 ghb.adtelligent.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adtelligent.com.json
 ghb.console.adtarget.com.tr	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adtargetBidAdapter.js#L12
 ghb1.adtelligent.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adtelligent.com.json
 go1.aniview.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/aniview.com.json
 goldlayer-api.prod.gbads.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/goldbachBidAdapter.ts#L16
 googleads.g.doubleclick.net	Google publisher ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/extensions/amp-ad-network-adsense-impl/0.1/amp-ad-network-adsense-impl.js#L69
+gosrv.pixfuture.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/pixfutureBidAdapter.js#L22
 gov.aniview.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/aniview.com.json
 grid-bidder.criteo.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/criteoBidAdapter.js#L27
 grid.bidswitch.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/gridBidAdapter.js#L29
+h.f1.impact-ad.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/impact-ad.jp.json#L766
+hb-api.omnitagjs.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adyoulikeBidAdapter.js#L279
+hb-pub.ssp.cadent.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/cadent_aperture_mxBidAdapter.js#L19
 hb.adingo.jp	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/fluctBidAdapter.js#L15
+hb.adscale.de	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/stroeerCoreBidAdapter.js#L9
 hb.adtrue.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adtrueBidAdapter.js#L13
 hb.adwmg.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adWMGBidAdapter.js#L11
 hb.aralego.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ucfunnelBidAdapter.js#L28
@@ -221,27 +317,47 @@ hb.justbidit2.xyz	Browser auction	https://github.com/prebid/Prebid.js/blob/318f4
 hb.minutemedia-prebid.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/minutemediaBidAdapter.js#L10
 hb.mynativeplatform.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/my6senseBidAdapter.js#L6
 hb.nativery.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/nativeryBidAdapter.js#L22
+hb.openwebmp.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/openwebBidAdapter.js#L6
+hb.r2b2.cz	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/r2b2BidAdapter.js#L19
 hb.undertone.com	Prebid ad integration	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/undertoneBidAdapter.js#L19
+hb.vntsm.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/vntsm.com.json#L97
 hbe198.hybrid.ai	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/hybridBidAdapter.js#L15
 hbopenbid.pubmatic.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/pubmaticBidAdapter.js#L25
+helloworld.holid.io	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/holid.io.json#L17
+ht-cdn2.contentabc.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/contentabc.com.json#L88
 htlb.casalemedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ixBidAdapter.js#L49
+hu.adocean.pl	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adocean.pl.json#L357
+hu.search.etargetnet.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/etargetBidAdapter.js#L45
+i-sdk.mediation.unity3d.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/unity3d/ads-mediation/mediation-sdk/9.8.0/mediation-sdk-9.8.0.aar
+i.connectad.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/connectadBidAdapter.js#L17
 i.socdm.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adgeneration.js#L14
+i2ad.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/i2ad.jp.json#L14
 ib.3lift.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/triplelift.js#L9
 ib.adnxs-simple.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/appnexusBidAdapter.js#L61
 ib.adnxs.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/appnexusBidAdapter.js#L60
+images.mediago.io	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/CH/mediago.io.json#L23
 imagesrv.adition.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adition.js#L12
+img.ak.impact-ad.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/impact-ad.jp.json#L886
 img.applovin.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/applovin/applovin-sdk/13.7.0/applovin-sdk-13.7.0.aar
+img.gsspat.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/gsspat.jp.json#L117
+img.mobon.net	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/mobon.net.json#L154
+imp-bidapi.i-mobile.co.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/i-mobile.co.jp.json#L77
 ind-apac.jambojar.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/jjtechBidAdapter.ts#L20
+indexhu.adocean.pl	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adocean.pl.json#L157
 inv-nets.admixer.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/admixerBidAdapter.js#L9
+ittr-us-e.eskimi.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/eskimiBidAdapter.js#L290
+ittr.eskimi.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/eskimiBidAdapter.js#L290
 j.amoad.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/amoad.js#L13
 j.microad.net	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/microad.js#L30
 j.zoe.zucks.net	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/zucks.js#L10
 j.zucks.net.zimg.jp	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/zucks.js#L29
 jambojar-apac-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L72
 jambojar-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L71
+jamx.deliveryengine.adswizz.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adswizz.com.json#L631
 jdpmedia-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L53
 js-sec.indexww.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/ix.js#L20
 js.ad-stir.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adstir.js#L22
+js.adscale.de	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adscale.de.json#L653
 js.gsspcln.jp	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/genieessp.js#L11
 js.gumgum.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/gumgum.js#L60
 jsc.adskeeper.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adskeeper.js#L51
@@ -249,6 +365,7 @@ krk2.kargo.com	Prebid ad integration	https://github.com/prebid/Prebid.js/blob/31
 kssp.kbntx.ch	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/kubientBidAdapter.js#L9
 lb-east.motorik.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/motorikBidAdapter.ts#L9
 live.demand.supply	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/sulvo.js#L9
+macro.adnami.io	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adnami.io.json#L194
 mads.amazon-adsystem.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/amazon/android/aps-sdk/12.0.5/aps-sdk-12.0.5.aar
 markapp-apac-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L50
 markapp-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L49
@@ -263,17 +380,22 @@ ms.applovin.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/applovin/
 ms.applvn.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/applovin/applovin-sdk/13.7.0/applovin-sdk-13.7.0.aar
 mssl.fwmrm.net	Video or publisher integration	https://github.com/BrightcoveLearning/player-en/blob/3b1e685bb9233e1aec2988e6f24946b04d603bb7/plugins/advertising-freewheel-plugin.html#L73
 mweb-hb.presage.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/oguryBidAdapter.js#L15
+myao.adocean.pl	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adocean.pl.json#L542
 native.bidder.taboola.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/taboolaBidAdapter.js#L30
 node.pbstck.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/pubstackBidAdapter.ts#L20
 non-tracking.auction.mediation-sdk.chartboost.com	Mobile ad SDK	https://github.com/chartboost/chartboost-mediation-android-sdk/blob/9a0abe2f09714469b11d9f3e99fb459fea8b23f9/ChartboostMediation/src/main/java/com/chartboost/chartboostmediationsdk/network/Endpoints.kt
 npid.amspbs.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/newspassidBidAdapter.js#L17
 one.elitebidder.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/bmtmBidAdapter.js#L8
+onetag-sys.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/onetagBidAdapter.js#L20
 openbid.pubmatic.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/pubmatic.com.json
+openrtb-us-east-1.axonix.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/axonixBidAdapter.js#L66
 optimized-by.rubiconproject.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/rubiconproject.com.json
 ortb.publink.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/publinkioBidAdapter.ts#L9
+otclick-adv.ru	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/otclick-adv.ru.json#L14
 ow.pubmatic.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/pubmatic.com.json
 pagead2.googlesyndication.com	Google publisher ad integration	https://github.com/googleads/google-publisher-tag-samples/blob/33e2bc8f6eee8c535f3943744973797a5e757a01/src/_includes/sample-layout.njk#L19
 pangle.pangleglobal.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/pangleBidAdapter.js#L12
+panxo-sys.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/panxoBidAdapter.js#L25
 pb.adriver.ru	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adriverBidAdapter.js#L8
 pb.ladsp.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/logicadBidAdapter.js#L8
 pbam.orangeclickmedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/ocmBidAdapter.js#L104
@@ -283,9 +405,11 @@ pbidj.lemmamedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/31
 pbjs.algotoro.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/boldwinBidAdapter.ts#L32
 pbjs.anzu-rtb.live	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/anzuDSPBidAdapter.ts#L7
 pbjs.bematterfull.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/matterfullBidAdapter.ts#L6
+pbjs.e-planning.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/eplanningBidAdapter.js#L18
 pbjs.mobkoi.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/mobkoiBidAdapter.js#L14
 pbjs.rbstsystems.live	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/robustAppsBidAdapter.js#L7
 pbjs.revealonmedia.live	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/revealonBidAdapter.ts#L6
+pbjs.sskzlabs.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/sublimeBidAdapter.js#L14
 pbs-front.mediasquare.fr	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/mediasquareBidAdapter.js#L19
 pbs.360yield.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/improvedigitalBidAdapter.js#L24
 pbs.aniview.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/aniview.com.json
@@ -293,24 +417,38 @@ pbs.atmtd.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f44292
 pbs.avads.live	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/advergicBidAdapter.ts#L15
 pbs.bidelerate.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adelerateBidAdapter.ts#L26
 pbs.btloader.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/blockthroughBidAdapter.js#L8
+pbs.intergient.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/intergient.com.json#L1224
 pbs.nextmillmedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/nextMillenniumBidAdapter.js#L31
+pbs.nitropay.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/nitropay.com.json#L886
 pbs.optidigital.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/optidigitalBidAdapter.js#L19
 pbs.production.agrvt.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/alliance_gravityBidAdapter.ts#L12
+pbserver.ezoic.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/ezoic.com.json#L363
 pdn.adingo.jp	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/fluct.js#L19
+pffads.de	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/pffads.de.json#L14
+pjs.srv.stackadapt.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/stackadaptBidAdapter.js#L12
 platform.bidgear.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/bidgear.js#L20
+play.adtonos.com	Audio, video or display ad delivery	https://github.com/AdTonos/sandstorm-sdk-unity/blob/c48a0a852682f919f3ba7b76823189695a7f9ad4/SampleApp/Assets/Sandstorm/Scripts/Unity/SandstormSDKUnity.cs#L66
+point.braveglobal.tv	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/braveBidAdapter.js#L15
+point.contextualadv.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/videoheroesBidAdapter.js#L14
 prd-prebid-bidder.adrino.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adrinoBidAdapter.js#L9
 pre.ads.justpremium.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/justpremiumBidAdapter.js#L10
 prebid-apac.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L43
+prebid-asia.creativecdn.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/rtbhouseBidAdapter.js#L111
 prebid-eu.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L44
+prebid-eu.creativecdn.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/rtbhouseBidAdapter.js#L111
 prebid-server.rubiconproject.com	Prebid ad integration	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/rubiconBidAdapter.js#L325
+prebid-us.creativecdn.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/rtbhouseBidAdapter.js#L111
 prebid.a-mo.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/amxBidAdapter.js#L25
 prebid.ad.smaato.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smaatoBidAdapter.js#L23
 prebid.adbro.me	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adbroBidAdapter.js#L9
+prebid.adipolo.live	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adipoloBidAdapter.js#L29
 prebid.admanmedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/acuityadsBidAdapter.js#L13
 prebid.admedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/admediaBidAdapter.js#L11
 prebid.adnxs.com	Publisher tags, bids and creatives	https://github.com/MicrosoftDocs/xandr-docs/blob/6549c0dec5906114141f35eb8e46ea677d7e7b69/xandr-docs/monetize/release-notes-2025-04-29.md#L15
 prebid.anyclip.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/anyclipBidAdapter.js#L12
+prebid.bidstreamserver.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/bidstreamserver.com.json#L217
 prebid.caroda.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/carodaBidAdapter.js#L92
+prebid.cootlogix.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/vidazooBidAdapter.js#L33
 prebid.deepintent.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/deepintentBidAdapter.js#L12
 prebid.intellitxt.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/vibrantmediaBidAdapter.js#L24
 prebid.loopmertb.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/loopmeBidAdapter.js#L8
@@ -333,15 +471,21 @@ prebid.trustedstack.com	Browser auction	https://github.com/prebid/Prebid.js/blob
 prebid2.cwi.re	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/cwireBidAdapter.js#L25
 prg-apac.smartadserver.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/smartadserver.com.json
 prg.smartadserver.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smartadserverBidAdapter.js#L167
+prg3429.smartadserver.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/smartadserver.com.json#L1892
+prg8.smartadserver.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/smartadserver.com.json#L5741
 prisma.nexx360.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/prismaBidAdapter.js#L18
 pubads.g.doubleclick.net	Mobile ad SDK	https://github.com/googleads/googleads-ima-android/blob/2de5e7115022fbeb55275e8edc663c38a54f011e/basicexample/app/src/main/java/com/google/ads/interactivemedia/v3/samples/videoplayerapp/MyActivity.java
 pubsmart-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L93
+px.adhigh.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/getintentBidAdapter.js#L12
 r.one-bid.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/onebidtechBidAdapter.js#L12
+r2b2-useast.adnxs.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adnxs.com.json#L156
 reachms.bfmio.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/beachfrontBidAdapter.js#L23
 relay.hubvisor.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/hubvisorBidAdapter.ts#L12
 req.adx.ws	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/sevioBidAdapter.js#L18
 request.czilladx.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/coinzillaBidAdapter.js#L11
+resources.infolinks.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/infolinks.com.json#L88
 rt.gsspat.jp	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/dsp_genieeBidAdapter.js#L18
+rt.marphezis.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/omsBidAdapter.js#L19
 rtb-east.tapnative.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/tapnativeBidAdapter.js#L14
 rtb-jp.mediago.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/discoveryBidAdapter.js#L19
 rtb.adferry.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adferryBidAdapter.ts#L24
@@ -367,12 +511,20 @@ rtb.upremium.asia	Browser auction	https://github.com/prebid/Prebid.js/blob/318f4
 rtb.valuad.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/valuadBidAdapter.js#L19
 rtb.vrtcal.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/vrtcalBidAdapter.js#L106
 rtb.vuukle.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/vuukleBidAdapter.js#L15
+rtbvast-use1.smartadserver.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/smartadserver.com.json#L3496
+rtbvast-usw1.smartadserver.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/smartadserver.com.json#L3496
+rtbvast.us-east1-1.smartadserver.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/smartadserver.com.json#L3496
 rtr.innovid.com	Video or publisher integration	https://github.com/MailOnline/videojs-vast-vpaid/blob/6227baf735dd4339ef56dd0be022d0ddb474d9fe/build/config.js#L47
 runspot4.tritondigital.com	Video or publisher integration	https://github.com/TritonDigital/player-sdk/blob/74ac6085c20b9150bc9b4d5d8307fd4521f05c29/src/base/ad/TritonRunSpot4Helper.js#L12
+s-files.innovid.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/innovid.com.json#L275
 s-rtb-pb.send.microad.jp	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/microadBidAdapter.js#L10
+s-rtb.send.microad.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/microad.jp.json#L137
+s-static.innovid.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/innovid.com.json#L68
+s-video.innovid.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/innovid.com.json#L341
 s.adtelligent.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adtelligent.js#L20
 s.amazon-adsystem.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/amazon-adsystem.com.json
 s.d.adup-tech.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/aduptech.js#L15
+s.eclick.vn	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/eclick.vn.json#L362
 s.ntv.io	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/nativo.js#L125
 s.pubmine.com	Publisher tags, bids and creatives	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/pubmine.js#L13
 s.seedtag.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/seedtagBidAdapter.js#L23
@@ -381,24 +533,45 @@ s0.2mdn.net	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blo
 s1.adform.net	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adform.net.json
 s2.adform.net	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adform.net.json
 s2s.aniview.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/aniview.com.json
+s2s.sportslocalmedia.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/sportslocalmedia.com.json#L649
+s2s.viralize.tv	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/viralize.tv.json#L767
 s2s.yieldlove-ad-serving.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/yieldloveBidAdapter.js#L5
 s2ssc.aniview.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/aniview.com.json
+sac.ayads.co	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/ayads.co.json#L267
 sapi.bumlam.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/mediasniperBidAdapter.js#L25
+sdk.naverads.net	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/naverads.net.json#L16
 sdkc.vervegroupinc.net	Mobile ad SDK	https://github.com/pubnative/pubnative-hybid-android-sdk/blob/afc097ed5bc675d0a898e374975c07b99edeec1b/hybid.sdk/src/main/java/net/pubnative/lite/sdk/api/SDKConfigAPiClient.java
 secure.adnxs.com	Video or publisher integration	https://github.com/MicrosoftDocs/xandr-docs/blob/6549c0dec5906114141f35eb8e46ea677d7e7b69/xandr-docs/monetize/required-parameters-for-ctv-inventory.md#L21
 securepubads.g.doubleclick.net	Google publisher ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/extensions/amp-ad-network-doubleclick-impl/0.1/amp-ad-network-doubleclick-impl.js#L125
+serv.ds.kakao.com	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/kakao.com.json#L97
 servedby.flashtalking.com	Video or publisher integration	https://github.com/MailOnline/videojs-vast-vpaid/blob/6227baf735dd4339ef56dd0be022d0ddb474d9fe/build/config.js#L19
+servedby.ipromote.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/AU/ipromote.com.json#L19
+servedby.revive-adserver.net	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/revive-adserver.net.json#L17
 servedbyadbutler.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adbutler.js#L44
+server.cpmstar.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/cpmstarBidAdapter.js#L11
 server.ethicalads.io	Publisher tags, bids and creatives	https://github.com/readthedocs/ethical-ad-client/blob/0e92ea49e944d421ad938be9fabbd5d3335fc229/index.js#L34
+server.smartytech.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smartytechBidAdapter.js#L11
 shb.richaudience.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/richaudienceBidAdapter.js#L88
+sin-trp-rtb.startappnetwork.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/startapp/inapp-sdk/5.5.2/inapp-sdk-5.5.2.aar
+sk.search.etargetnet.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/etargetBidAdapter.js#L45
+sonic.impactify.media	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/impactifyBidAdapter.js#L22
 sp.gmossp-sp.jp	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/gmosspBidAdapter.js#L24
+sp.linkssp.ru	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/linkssp.ru.json#L56
+spad.i-mobile.co.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/i-mobile.co.jp.json#L744
+spdeliver.i-mobile.co.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/i-mobile.co.jp.json#L262
+spnativeapi-tls.i-mobile.co.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/CA/i-mobile.co.jp.json#L19
+spsvcpc-tls.i-mobile.co.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/i-mobile.co.jp.json#L316
 srv.armanet.us	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/fanBidAdapter.js#L15
+srv.aso1.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/asoBidAdapter.js#L8
+srv.buysellads.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/buysellads.com.json#L48
 srv.carbonads.net	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/carbonads.net.json
 srv.clickfuse.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/amplified.js#L40
 srv.freedomadnetwork.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/fanBidAdapter.js#L14
+srv.scalibur.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/scaliburBidAdapter.js#L10
 ssb-global.smartadserver.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/equativBidAdapter.js#L120
 ssc.33across.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/33acrossBidAdapter.js#L30
 sshowads.pubmatic.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/pubmatic.com.json
+ssp-asr.digitalcaramel.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/digitalcaramelBidAdapter.js#L6
 ssp-bidder.2trk.info	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/precisoBidAdapter.js#L14
 ssp-rtb.sape.ru	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/rtbsapeBidAdapter.js#L17
 ssp.360playvid.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/360playvidBidAdapter.js#L6
@@ -410,29 +583,46 @@ ssp.astraone.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442
 ssp.hybrid.ai	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/voxBidAdapter.js#L15
 ssp.otm-r.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/otmBidAdapter.js#L17
 ssp.playgama.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/playgamaBidAdapter.ts#L19
+ssp.seznam.cz	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/DE/seznam.cz.json#L82
 ssp.splashandroll.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/splashBidAdapter.ts#L41
 ssp.theadx.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/theAdxBidAdapter.js#L24
 ssptr.theadx.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/theAdxBidAdapter.js#L25
 stackup-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L87
 static.adman.gr	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/adman.js#L11
+static.adzerk.net	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adzerk.net.json#L165
 static.clmbtech.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/colombia.js#L37
 static.criteo.net	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/criteo.js#L15
+static.go2perseo.com	Observed ad serving	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/go2perseo.com.json#L110
+static.polarcdn.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/polarcdn.com.json#L19
+static.teads.tv	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/teads.tv.json#L1292
 static.yieldmo.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/yieldmo.js#L15
 static4.buysellads.net	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/buysellads.net.json
+statika.mpsuadv.ru	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/mpsuadv.ru.json#L82
 storage.cloud.kargo.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/kargo.js#L14
+streamguys.deliveryengine.adswizz.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adswizz.com.json#L341
+supply.inmobicdn.net	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/inmobi/monetization/inmobi-ads-kotlin/11.5.1/inmobi-ads-kotlin-11.5.1.aar
+syndication.exoclick.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/exoclick.com.json#L250
+syndication.exosrv.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/exosrv.com.json#L213
 t.seedtag.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/seedtag.js#L37
+t.visx.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/visxBidAdapter.js#L14
 tag-ssp.adsmovil.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/adsmovilBidAdapter.ts#L6
 tag.1rx.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/rhythmoneBidAdapter.js#L195
 tag.contextweb.com	Web ad integration	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/pulsepoint.js#L26
+tag.targeting.unrulymedia.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/unrulymedia.com.json#L2176
 tagmanager.smartadserver.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/smartadserver.com.json
+tags.adnuntius.com	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/NO/adnuntius.com.json#L1474
+tags.premiumads.com.br	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/premiumads.com.br.json#L16
 targeting.unrulymedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/unrulyBidAdapter.js#L236
 tg1.aniview.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/aniview.com.json
 tkprebid.aotter.net	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/asealBidAdapter.js#L9
 tlx.3lift.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/tripleliftBidAdapter.js#L10
 tpc.googlesyndication.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/googlesyndication.com.json
 tredio-prebid.attekmi.co	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/smarthubBidAdapter.js#L56
+us-e.floxis.tech	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/floxisBidAdapter.ts#L41
+us-east.pgammedia.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/pgamsspBidAdapter.js#L7
 us.nexbids.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/nbadsBidAdapter.ts#L57
 useast.quantumdex.io	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/apacdexBidAdapter.js#L8
+vast-adapter.adtonos.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/adtonos.com.json#L39
 vast.aniview.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/aniview.com.json
 vcdn.adnxs.com	Video or publisher integration	https://github.com/MicrosoftDocs/xandr-docs/blob/6549c0dec5906114141f35eb8e46ea677d7e7b69/xandr-docs/digital-platform-api/creative-service.md#L2045
 vid.applovin.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/applovin/applovin-sdk/13.7.0/applovin-sdk-13.7.0.aar
@@ -441,7 +631,9 @@ vid.springserve.com	Observed video ad request	https://github.com/duckduckgo/trac
 video-player.aps.amazon-adsystem.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/amazon/android/aps-sdk/12.0.5/aps-sdk-12.0.5.aar
 vidstat.taboola.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/taboola.com.json
 vpaid.pubmatic.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/pubmatic.com.json
+vpaid.springserve.com	Audio, video or display ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/springserve.com.json#L418
 vpaid.vidoomy.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/vidoomy.com.json
+vpb-server.jwplayer.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/jwplayerBidAdapter.js#L9
 warp.media.net	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/media.net.json
 web-banner.ads.aps.amazon-adsystem.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/amazon-adsystem.com.json
 web-video.ads.aps.amazon-adsystem.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/amazon-adsystem.com.json
@@ -450,8 +642,16 @@ web.hb.ad.cpe.dotomi.com	Browser auction	https://github.com/prebid/Prebid.js/blo
 wf.taboola.com	Publisher tags, bids and creatives	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/taboola.com.json
 widgets.outbrain.com	Publisher tags, bids and creatives	https://github.com/ampproject/amphtml/blob/bd7a182eb85f04fd48884c7639da89bd8fb1d5d5/ads/vendors/outbrain.js#L25
 wild.8podx.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/eightpodBidAdapter.js#L14
+works.gsspcln.jp	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/gsspcln.jp.json#L106
+wv.inner-active.mobi	Mobile ad SDK	https://repo.maven.apache.org/maven2/com/fyber/marketplace-sdk/8.5.1/marketplace-sdk-8.5.1.aar
 www.googletagservices.com	Publisher tags, bids and creatives	https://github.com/googleads/googleads-ima-html5/blob/65b0e2f88a7decea45d930b3808d544ba0e517f7/advanced/index.html#L20
+www.mediacategory.com	Regional ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/mediacategory.com.json#L129
+www18.smartadserver.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/smartadserver.com.json#L1892
 www3.smartadserver.com	Observed ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/smartadserver.com.json
+x.blueduckredapple.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/io/bidmachine/ads/4.0.0/ads-4.0.0.aar
+x.everestop.io	Mobile ad SDK	https://repo.maven.apache.org/maven2/io/bidmachine/ads/4.0.0/ads-4.0.0.aar
 x.padsquad.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/padsquadBidAdapter.js#L5
+x.thecatmachine.com	Mobile ad SDK	https://repo.maven.apache.org/maven2/io/bidmachine/ads/4.0.0/ads-4.0.0.aar
 x.videobyte.com	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/videobyteBidAdapter.js#L39
 y.one.impact-ad.jp	Browser auction	https://github.com/prebid/Prebid.js/blob/318f442924c3928455e2db3093bdfa6ecbecbe91/modules/yieldoneBidAdapter.js#L22
+yield-manager.browsiprod.com	Publisher ad delivery	https://github.com/duckduckgo/tracker-radar/blob/a358daca7f84a2d8275f0b8dca460231dd902886/domains/US/browsiprod.com.json#L22
