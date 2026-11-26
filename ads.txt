@@ -1,7 +1,4 @@
-29773.v.fwmrm.net
-2a7e9.v.fwmrm.net
 5c910.v.fwmrm.net
-5d402.v.fwmrm.net
 7b936.v.fwmrm.net
 7dc33.v.fwmrm.net
 81cec.v.fwmrm.net
@@ -101,6 +98,7 @@ api.bidmachine.io
 api.maxesads.com
 api.pubnative.net
 api.w.inmobi.com
+apis.adbro.me
 as.innity.com
 as.jivox.com
 as.vt.open8.com
@@ -154,7 +152,6 @@ bs.serving-sys.ru
 bs.yandex.ru
 btlr.sharethrough.com
 buyer.dspx.tv
-c.aps.amazon-adsystem.com
 c.bannerflow.net
 c2shb.pubgw.yahoo.com
 cache-ssl.celtra.com
@@ -180,6 +177,7 @@ cdn.jivox.com
 cdn.microad.jp
 cdn.optoutadvertising.com
 cdn.pubfuture-ad.com
+cdn.revive-adserver.net
 cdn.revjet.com
 cdn.tsyndicate.com
 cdn4-hbs.affinitymatrix.com
@@ -200,6 +198,7 @@ core.iprom.net
 cpu32-cfy59.ads.tremorhub.com
 cpu32-j0bsd.ads.tremorhub.com
 cpu32-zs9v8.ads.tremorhub.com
+creatives.bannerheroes.com
 cstatic.weborama.fr
 cxba-s2s.cncpt.dk
 cz.search.etargetnet.com
@@ -288,6 +287,7 @@ ht-cdn2.contentabc.com
 hu.adocean.pl
 hu.search.etargetnet.com
 i-sdk.mediation.unity3d.com
+i.bannerbridge.net
 i.connectad.io
 i.socdm.com
 i2ad.jp
@@ -373,6 +373,7 @@ pbs.optidigital.com
 pbs.production.agrvt.com
 pbserver.ezoic.com
 pffads.de
+pix-ht.trafficjunky.net
 pjs.srv.stackadapt.com
 platform.bidgear.com
 play.adtonos.com
@@ -465,7 +466,6 @@ s-rtb.send.microad.jp
 s-static.innovid.com
 s-video.innovid.com
 s.adtelligent.com
-s.amazon-adsystem.com
 s.d.adup-tech.com
 s.eclick.vn
 s.pubmine.com
@@ -484,6 +484,7 @@ sdk.naverads.net
 sdkc.vervegroupinc.net
 secure.adnxs.com
 serv.ds.kakao.com
+servedby.aqua-adserver.com
 servedby.ipromote.com
 servedby.revive-adserver.net
 server.ethicalads.io
@@ -544,7 +545,6 @@ tagmanager.smartadserver.com
 tags.adnuntius.com
 tags.premiumads.com.br
 targeting.unrulymedia.com
-tg1.aniview.com
 tkprebid.aotter.net
 tredio-prebid.attekmi.co
 us-e.floxis.tech
@@ -556,7 +556,6 @@ vast.aniview.com
 vcdn.adnxs.com
 vid.applovin.com
 vid.pubmatic.com
-vid.springserve.com
 video-player.aps.amazon-adsystem.com
 vpaid.pubmatic.com
 vpaid.springserve.com
@@ -564,6 +563,10 @@ vpaid.vidoomy.com
 vpb-server.jwplayer.com
 warp.media.net
 web-banner.ads.aps.amazon-adsystem.com
+web-cf-event-cell8003.ads.aps.amazon-adsystem.com
+web-cf-event-cell8011.ads.aps.amazon-adsystem.com
+web-cf-event-cell8012.ads.aps.amazon-adsystem.com
+web-cf-event-cell8021.ads.aps.amazon-adsystem.com
 web-video.ads.aps.amazon-adsystem.com
 web.ads.aps.amazon-adsystem.com
 web.hb.ad.cpe.dotomi.com
