@@ -8,6 +8,7 @@ analytics.brew.sh
 analytics.strapi.io
 appsignal-endpoint.net
 aws-serverless-tools-telemetry.us-west-2.amazonaws.com
+checkmate-telemetry.bluewave-labs.workers.dev
 collect.traefik.io
 collector.bsg.brave.com
 cr.brave.com
@@ -52,4 +53,5 @@ telemetry.meilisearch.com
 telemetry.nextjs.org
 telemetry.nuxt.com
 telemetry.qdrant.io
+telemetry.vercel.com
 telemetry.weaviate.io
