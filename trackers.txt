@@ -80,6 +80,7 @@ pong.chartbeat.net
 prof.estat.com
 px.ads.linkedin.com
 q.clarity.ms
+queue.simpleanalyticscdn.com
 r.clarity.ms
 region1.google-analytics.com
 s.clarity.ms
