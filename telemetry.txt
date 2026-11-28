@@ -47,6 +47,7 @@ submit.backtrace.io
 telemetry.astro.build
 telemetry.ceph.com
 telemetry.dagster.io
+telemetry.dotnet.contrastsecurity.com
 telemetry.hasura.io
 telemetry.ion.sst.dev
 telemetry.meilisearch.com
